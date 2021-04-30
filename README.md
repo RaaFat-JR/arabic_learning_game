@@ -1,6 +1,6 @@
 # arabic_learning_game
 
-A new Flutter application.
+An app to learn arabic alphabets for kids with some excercises.
 
 ## Getting Started
 
